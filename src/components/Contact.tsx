@@ -27,7 +27,7 @@ export const Contact: React.FC = () => {
       icon: Mail,
       title: 'Email',
       value: 'acbhaskar1@gmail.com',
-      link: 'mailto:alex.chen@example.com'
+      link: 'mailto:acbhaskar1@gamil.com'
     },
     {
       icon: Phone,

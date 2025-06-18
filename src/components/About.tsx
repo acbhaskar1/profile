@@ -40,7 +40,7 @@ export const About: React.FC = () => {
           <div className="space-y-6">
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                I'm a passionate full-stack developer with over 5 years of experience creating 
+                I'm a passionate full-stack developer with over 6+ years of experience creating 
                 digital solutions that make a difference. My journey began with a curiosity about 
                 how websites work, and it has evolved into a deep love for crafting exceptional 
                 user experiences.
